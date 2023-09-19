@@ -1,3 +1,2 @@
 # basic
-This is repository is created to learn how to use github.
-I will learn github soon.
+This is repository is created to learn how to use github.<br>I will learn github soon.
